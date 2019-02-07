@@ -104,7 +104,9 @@ li {
 
 /*------Footer------*/
 footer {
+    display: flex;
     text-align: center;
+    justify-content: center;
 }
 
 /*https://paulund.co.uk/how-to-create-shiny-css-buttons*/
